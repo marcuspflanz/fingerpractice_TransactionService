@@ -1,0 +1,26 @@
+[
+  {
+    "amount": 123.45,
+    "type": "type one"
+  },
+  {
+    "amount": 234.56,
+    "type": "type two",
+    "parent_id": null
+  },
+  {
+    "amount": 1230.45,
+    "type": "type two",
+    "parent_id": 0
+  },
+  {
+    "amount": -34.56,
+    "type": "type three",
+    "parent_id": 1
+  },
+  {
+    "amount": 666.11,
+    "type": "type four",
+    "parent_id": 1
+  }
+]
